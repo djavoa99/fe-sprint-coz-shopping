@@ -8,7 +8,7 @@ const Box = styled.div`
 `;
 
 const Section = styled.section`
-  position : fixed;
+  position: relative;
   bottom : 0;
   border: solid rgba(0, 0, 0, 0.1);
   width: 100%;
